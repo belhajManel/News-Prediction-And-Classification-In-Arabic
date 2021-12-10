@@ -20,7 +20,7 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][https://github.com/belhajManel/Bad-News-Prediction-And-Classification-In-Tunisia/issues]
+[![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -193,8 +193,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Manel BELHAJ - [@twitter_handle](https://twitter.com/twitter_handle) - [![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/manel-belhaj-296244211/]- belhaj.maane@gmail.com
-Mohamed AMARA - [@twitter_handle](https://twitter.com/twitter_handle) - [![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/mohamed--amara/]- hamma.amara20@gmail.com
+Manel BELHAJ - [@twitter_handle](https://twitter.com/twitter_handle) - belhaj.maane@gmail.com
+Mohamed AMARA - [@twitter_handle](https://twitter.com/twitter_handle) - hamma.amara20@gmail.com
 
 Project Link: [https://github.com/belhajManel/Bad-News-Prediction-And-Classification-In-Tunisia](https://github.com/belhajManel/Bad-News-Prediction-And-Classification-In-Tunisia)
 

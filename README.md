@@ -40,10 +40,6 @@
     <a href="https://github.com/belhajManel/Bad-News-Prediction-And-Classification-In-Tunisia"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-  
-    <a href="https://github.com/belhajManel/Bad-News-Prediction-And-Classification-In-Tunisia/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/belhajManel/Bad-News-Prediction-And-Classification-In-Tunisia/issues">Request Feature</a>
   </p>
 </div>
 
@@ -80,7 +76,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description`
 
@@ -124,9 +119,11 @@ To get a local copy up and running follow these simple example steps.
    ```sh
    pip install pandas
    pip install pandas profiling
+   pip install nltk
+   pip install sklearn
+   pip install plotly
    ```
-3. 
-   ```
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -190,7 +187,6 @@ Project Link: [https://github.com/belhajManel/Bad-News-Prediction-And-Classifica
 
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 

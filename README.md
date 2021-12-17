@@ -30,19 +30,17 @@
 <br />
 <div align="center">
   <a href="https://github.com/belhajManel/Bad-News-Prediction-And-Classification-In-Tunisia">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Bad News Detection And Classification In Tunisia</h3>
+<h3 align="center">News Prediction And Topic Classification In Tunisia : Arabic NLP</h3>
 
   <p align="center">
-    Building a deep learning model to classify arabic news and predict bad news each day!
+    Building a machine learning model to classify news topic in arabic nlp and a deep learning model to predict news number and classify it each day!
     <br />
     <a href="https://github.com/belhajManel/Bad-News-Prediction-And-Classification-In-Tunisia"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/belhajManel/Bad-News-Prediction-And-Classification-In-Tunisia">View Demo</a>
-    ·
+  
     <a href="https://github.com/belhajManel/Bad-News-Prediction-And-Classification-In-Tunisia/issues">Report Bug</a>
     ·
     <a href="https://github.com/belhajManel/Bad-News-Prediction-And-Classification-In-Tunisia/issues">Request Feature</a>
@@ -92,14 +90,13 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+* [Python](https://python.org/)
+* [Sklearn](https://scikit-learn.org/)
+* [Plotly](https://plotly.com)
+* [Seaborn](https://seaborn.pydata.org)
+* [Nltk](https://nltk.org)
+* [Pandas Profiling](https://pandas-profiling.github.io)
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -108,16 +105,13 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
+Nowadays on the Internet there are a lot of  sources that generate immense amounts of  daily news. In addition, the demand for information by users has been growing continuously, so it is crucial that the news is  classified to allow users to access the information of interest quickly and effectively. 
+This way, the machine learning model for  automated news classification could be used  to identify topics of untracked news and  predict which category of news will be posted 
+on a future day and how much of it will be posted.
+
+
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
 ### Installation
 
@@ -141,7 +135,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Will be updated soon!
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
@@ -149,13 +143,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 
-<!-- ROADMAP -->
-## Roadmap
-
-- [] Feature 1
-- [] Feature 2
-- [] Feature 3
-    - [] Nested Feature
 
 See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
@@ -202,12 +189,6 @@ Project Link: [https://github.com/belhajManel/Bad-News-Prediction-And-Classifica
 
 
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
